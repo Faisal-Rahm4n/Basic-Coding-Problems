@@ -1,1 +1,1 @@
-#Basic Python Program to practice
+#Basic Python Projects to practice coding
